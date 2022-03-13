@@ -1,0 +1,9 @@
+.card {
+  background-color: antiquewhite;
+  width: 230px;
+  border-radius: 50px;
+  height: 243px;
+}
+.card-img-top {
+  width: 72px;
+}
